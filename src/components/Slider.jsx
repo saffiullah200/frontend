@@ -1,6 +1,6 @@
 import React from "react";
 import { Slide } from "react-slideshow-image";
-import "../slider.css";
+import "../css/slider.css";
 import slideOne from "../images/slide-one.jpg";
 import slideTwo from "../images/slide-two.jpg";
 import slideThree from "../images/slide-three.jpg";
