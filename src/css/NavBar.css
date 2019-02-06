@@ -1,0 +1,10 @@
+.nav-wrapper {
+  width: 100%;
+  background-color: lightblue;
+}
+.list a:hover {
+  background-color: #111;
+}
+.list {
+  float: right;
+}

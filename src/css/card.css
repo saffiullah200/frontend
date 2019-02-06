@@ -1,0 +1,7 @@
+.cardImage1 {
+  background: url("../images/item1.jpg") no-repeat center top;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  position: relative;
+}

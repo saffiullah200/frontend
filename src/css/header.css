@@ -1,0 +1,21 @@
+.top-header {
+  background: #fff !important;
+  position: fixed;
+  width: 100%;
+  z-index: 99999;
+}
+.header-backup {
+  width: 20px;
+  height: 119px;
+  background: transparent;
+  margin: auto;
+}
+.top-header img.logo {
+  margin-bottom: 25px;
+  margin-top: -15px;
+  transition: all 0.5s ease 0s;
+  -webkit-transition: all 0.5s ease 0s;
+  -moz-transition: all 0.5s ease 0s;
+  -o-transition: all 0.5s ease 0s;
+  -ms-transition: all 0.5s ease 0s;
+}
